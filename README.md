@@ -21,7 +21,7 @@ Essa animação foi criada, como parte do projeto final da disciplina de **Siste
 
  * [Estrelas](Classe_Star.js): Essa classe apresenta funções para desenhar e atualizar as estrelas.
  
- * [Personagem](Classe_Personagem.js): Essa classe apresenta funções para desenhar e movimentar um personagem humanóide pré-configurado.
+ * [Personagem](Classe_Personagem.js): Essa classe apresenta funções para desenhar e movimentar um personagem humanóide.
 
 
 
