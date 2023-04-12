@@ -11,4 +11,4 @@
 
 # | $\textcolor{RedOrange}{\text{Animacao Espacial}}$
 
-Essa animação foi criada, como parte do projeto final da disciplina de **Sistemas Multimídias**, através da ferramenta **P5.js** (versão web do **Processing**) e ilustra como seria um passeio ou uma viagem espacial de forma criativa.
+Essa animação foi criada, como parte do projeto final da disciplina de **Sistemas Multimídias**, através da ferramenta **P5.js** (versão web do **Processing**) e ilustra, de forma criativa, como seria um passeio ou uma viagem espacial
