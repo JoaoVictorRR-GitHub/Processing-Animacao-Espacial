@@ -37,5 +37,5 @@
 ## | $\textcolor{Yellow}{\text{Projeto:}}$
  
  * [Bibliotecas.](Bibliotecas)
- * [Arquivo da projeto.](index.html)
+ * [Arquivo do projeto.](index.html)
  * [Implementação da animação.](Sketch.js)
