@@ -26,6 +26,6 @@ Essa animação foi criada, como parte do projeto final da disciplina de **Siste
 
 ## | $\textcolor{Yellow}{\text{Projeto:}}$
  
- * [Bibliotecas.](index.html)
- * [Arquivo do Projeto.](Sketch.js)
- 
+ * [Bibliotecas.](Bibliotecas)
+ * [Arquivo da projeto.](index.html)
+ * [Implementação da animação.](Sketch.js)
