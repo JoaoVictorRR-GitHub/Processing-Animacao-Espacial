@@ -19,8 +19,9 @@ Essa animação foi criada, como parte do projeto final da disciplina de **Siste
 
 ## | $\textcolor{Lime}{\text{Classes:}}$
 
- * [Estrelas](Classe_Star.js): $\hspace{0.7cm}$ Essa classe apresenta funções para desenhar e atualizar as estrelas.
- * [Personagem](Classe_Personagem.js): Essa classe apresenta funções para desenhar e movimentar o corpo de um personagem humanóide pré-configurado.
+ * [Estrelas](Classe_Star.js): Essa classe apresenta funções para desenhar e atualizar as estrelas.
+ 
+ * [Personagem](Classe_Personagem.js): Essa classe apresenta funções para desenhar e movimentar um personagem humanóide pré-configurado.
 
 
 
