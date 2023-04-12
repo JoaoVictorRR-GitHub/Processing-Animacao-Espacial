@@ -10,5 +10,5 @@
 ### <p align="center">| <><>============================================================<><> |</p>
 
 # | $\textcolor{RedOrange}{\text{Animacao Espacial}}$
-Projeto final da disciplina de sistemas multimídias, realizado com o Processing Web (p5 js).
 
+Essa animação foi criada, como parte do projeto final da disciplina de **Sistemas Multimídias**, através da ferramenta **P5.js** (versão web do **Processing**) e ilustra como seria um passeio ou uma viagem espacial de forma criativa.
