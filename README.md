@@ -11,7 +11,7 @@
 
 
 
-# | $\textcolor{RedOrange}{\text{Animacao Espacial}}$
+# | $\textcolor{RedOrange}{\text{Animação Espacial}}$
  <p align="justify">
   Essa animação foi criada, como parte do projeto final da disciplina de <b>Sistemas Multimídia</b>, através da ferramenta <b>P5.js</b> (versão web do <b>Processing</b>) e
   ilustra, de forma criativa, um passeio ou uma viagem espacial em um <b>Campo de estrelas</b>.
