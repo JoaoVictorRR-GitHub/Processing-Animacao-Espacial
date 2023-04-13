@@ -12,10 +12,12 @@
 
 
 # | $\textcolor{RedOrange}{\text{Animação Espacial}}$
+
  <p align="justify">
   Essa animação foi criada, como parte do projeto final da disciplina de <b>Sistemas Multimídia</b>, através da ferramenta <b>P5.js</b> (versão web do <b>Processing</b>) e
   ilustra, de forma criativa, um passeio ou uma viagem espacial em um <b>Campo de estrelas</b>.
  </p>
+
 
 
  ## | $\textcolor{Lime}{\text{Classes:}}$
@@ -39,3 +41,12 @@
  * [Bibliotecas.](Bibliotecas)
  * [Arquivo do projeto.](index.html)
  * [Implementação da animação.](Sketch.js)
+
+
+
+## | $\textcolor{Fuchsia}{\text{Configurações:}}$
+ 
+ * Ativar/Desativar musicas: **m**.
+ * Ativar/Desativar ferramenta de captura: **g**.
+ * Movimentar o personagem: **W A S D** ou **Setas do teclado**.
+ * Ativar/Desativar efeito sonoro: **movimentar o mouse horizontalmente**.
