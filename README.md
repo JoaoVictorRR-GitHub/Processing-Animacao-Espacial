@@ -46,7 +46,7 @@
 
 ## | $\textcolor{Fuchsia}{\text{Configurações:}}$
  
- * Ativar/Desativar musicas: **m**.
- * Ativar/Desativar ferramenta de captura: **g**.
- * Movimentar o personagem: **W A S D** ou **Setas do teclado**.
- * Ativar/Desativar efeito sonoro: **movimentar o mouse horizontalmente**.
+ * Ativar/Desativar musicas: $\textcolor{red}{\text{m.}}$
+ * Ativar/Desativar ferramenta de captura: $\textcolor{red}{\text{g.}}$
+ * Movimentar o personagem: $\textcolor{red}{\text{w a s d}}$ ou ⬅️↕️➡️
+ * Ativar/Desativar efeito sonoro: 🖱.
