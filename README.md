@@ -46,7 +46,7 @@
 
 ## | $\textcolor{Fuchsia}{\text{Configurações:}}$
  
- * Ativar/Desativar musicas: $\textcolor{red}{\text{m.}}$
- * Ativar/Desativar ferramenta de captura: $\textcolor{red}{\text{g.}}$
- * Movimentar o personagem: $\textcolor{red}{\text{w a s d}}$ ou ⬅️↕️➡️
- * Ativar/Desativar efeito sonoro: 🖱.
+ * Ativar/Desativar músicas: $\textcolor{red}{\text{🅼}}$.
+ * Ativar/Desativar ferramenta de captura: $\textcolor{red}{\text{🅶}}$.
+ * Movimentar o personagem: $\textcolor{red}{\text{🆆\ 🅰\ 🆂\ 🅳}}$ ou ⬅️↕️➡️ ou 🖱.
+ * Ativar/Desativar efeito sonoro: 🖱↔️.
