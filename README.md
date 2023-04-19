@@ -46,7 +46,7 @@
 
 ## | $\textcolor{Fuchsia}{\text{Configurações:}}$
  
- * Ativar/Desativar efeito sonoro: 🖱↔️.
  * Ativar/Desativar músicas: $\textcolor{red}{\text{🅼}}$.
+ * Ativar/Desativar efeito sonoro: 🖱↔️.
  * Ativar/Desativar ferramenta de captura: $\textcolor{red}{\text{🅶}}$.
  * Movimentar o personagem: $\textcolor{red}{\text{🆆\ 🅰\ 🆂\ 🅳}}$ ou ⬅️↕️➡️ ou 🖱.
