@@ -1,4 +1,4 @@
-### <p align="center">| <><>=================================================<><> |</p>
+---
 
 <div>
  <p align="center">
@@ -7,11 +7,11 @@
  </p>
 </div>
 
-### <p align="center">| <><>=================================================<><> |</p>
+---
 
 
-
-# | $\textcolor{RedOrange}{\text{Animação Espacial}}$
+<!-- RedOrange -->
+# |> ANIMAÇÃO ESPACIAL <|
 
  <p align="justify">
   Essa animação foi criada, como parte do projeto final da disciplina de <b>Sistemas Multimídia</b>, através da ferramenta <b>P5.js</b> (versão web do <b>Processing</b>) e
@@ -19,32 +19,32 @@
  </p>
 
 
-
- ## | $\textcolor{Lime}{\text{Classes:}}$
+<!-- Lime -->
+ ## |> CLASSES <|
  
  * [Estrelas](Classe_Star.js):
- * <p align="justify">
+   <p align="justify">
    Esse código foi retirado de um vídeo do <a href="https://www.youtube.com/watch?v=17WoOqgXsRM"> The Code Train </a> onde o desafio era implementar um <b>"Campo de
    estrelas</b>", ou "<b>Dobra espacial</b>", inspirado no exemplo <a href="https://cs.brynmawr.edu/gxk2013/examples/transformations/starfield/"> Starfield</a>. A
    classe apresenta funções para desenhar e atualizar as estrelas, e foi adapdata para incluir estrelas coloridas no projeto.
  </p>
   
  * [Personagem](Classe_Personagem.js):
- * <p align="justify">
+   <p align="justify">
    Esse código foi implementado para criar um personagem humanóide. A classe fornece funções para desenhar e movimentar o personagem configurado.
  </p>
 
 
-
-## | $\textcolor{Yellow}{\text{Projeto:}}$
+<!-- Yellow -->
+## |> PROJETO <|
  
  * [Bibliotecas.](Bibliotecas)
  * [Arquivo do projeto.](index.html)
  * [Implementação da animação.](Sketch.js)
 
 
-
-## | $\textcolor{Fuchsia}{\text{Configurações:}}$
+<!-- Fuchsia -->
+## |> CONFIGURAÇÕES <|
  
  * Ativar/Desativar músicas: $\textcolor{red}{\text{🅼}}$.
  * Ativar/Desativar efeito sonoro: 🖱↔️.
