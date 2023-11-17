@@ -11,7 +11,7 @@
 
 
 <!-- RedOrange -->
-# |> ANIMAÇÃO ESPACIAL <|
+# | $\textcolor{RedOrange}{\text{ANIMAÇÃO ESPACIAL}}$
 
  <p align="justify">
   Essa animação foi criada, como parte do projeto final da disciplina de <b>Sistemas Multimídia</b>, através da ferramenta <b>P5.js</b> (versão web do <b>Processing</b>) e
@@ -20,7 +20,7 @@
 
 
 <!-- Lime -->
- ## |> CLASSES <|
+ ## | $\textcolor{Lime}{\text{CLASSES:}}$
  
  * [Estrelas](Classe_Star.js):
    <p align="justify">
@@ -36,7 +36,7 @@
 
 
 <!-- Yellow -->
-## |> PROJETO <|
+## | $\textcolor{Yellow}{\text{PROJETO:}}$
  
  * [Bibliotecas.](Bibliotecas)
  * [Arquivo do projeto.](index.html)
@@ -44,7 +44,7 @@
 
 
 <!-- Fuchsia -->
-## |> CONFIGURAÇÕES <|
+## | $\textcolor{Fuchsia}{\text{CONFIGURAÇÕES:}}$
  
  * Ativar/Desativar músicas: $\textcolor{red}{\text{🅼}}$.
  * Ativar/Desativar efeito sonoro: 🖱↔️.
