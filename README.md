@@ -1,4 +1,3 @@
----
 
 <div>
  <p align="center">
@@ -6,8 +5,6 @@
    <img src="Gif_Animacao_.gif" width="90%"/></a>
  </p>
 </div>
-
----
 
 
 <!-- RedOrange -->
